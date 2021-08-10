@@ -6,8 +6,8 @@
 - I'm dont doing asking knowledge.
 
 
-### Tools and Languages:
-
+### Tools and Languages
+---
 <img align="left" alt="WebStorm" width="26px" src="https://logonoid.com/images/webstorm-logo.png" />
 <img align="left" alt="PHPStorm" width="26px" src="https://logonoid.com/images/phpstorm-logo.png" />
 
@@ -17,8 +17,7 @@
 <img align="right" alt="ShellScript" width="26px" src="https://cdn.discordapp.com/attachments/691934021730566195/874576610592968734/unknown.png" />
 
 ---
-
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OceanTechnic&show_icons=true&theme=onedark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OceanTechnic&layout=compact&theme=onedark&count_private=true)
 
