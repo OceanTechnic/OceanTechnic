@@ -1,12 +1,10 @@
-## 👋 Hey , I'm Adam (OceanTechnic)
+<h3><strong>Hey , I'm Adam (OceanTechnic)</strong></h3>
 
 - I'm working on:  [MyGamePanel](https://github.com/MyGamePanel), [Haze-Market](https://discord.gg/4dEDh8nJdM)
-- What? If you ask me something. I will tell you to google it, because it will be faster.
 - I dont know what I am doing.
-- I'm dont doing asking knowledge.
+- My life in one line: `This condition will always return 'false' with any`
 
-
-### Tools and Languages
+<h3><strong>Tools and Languages</strong></h3>
 
 <img align="left" alt="WebStorm" width="26px" src="https://logonoid.com/images/webstorm-logo.png" />
 <img align="left" alt="PHPStorm" width="26px" src="https://logonoid.com/images/phpstorm-logo.png" />
@@ -23,3 +21,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OceanTechnic&show_icons=true&theme=onedark&count_private=true)
 
+<br>
+<h3 align="center">✌️ PEACE</h3>
