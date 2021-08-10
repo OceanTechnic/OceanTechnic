@@ -1,4 +1,4 @@
-<h3><strong>Hey , I'm Adam (OceanTechnic)</strong></h3>
+<h3><strong>🖖 Hey , I'm Adam (OceanTechnic)</strong></h3>
 
 - I'm working on:  [MyGamePanel](https://github.com/MyGamePanel), [Haze-Market](https://discord.gg/4dEDh8nJdM)
 - I dont know what I am doing.
