@@ -6,7 +6,7 @@
 - I'm dont doing asking knowledge.
 
 
-### Languages and Tools:
+### Tools and Languages:
 
 <img align="left" alt="WebStorm" width="26px" src="https://logonoid.com/images/webstorm-logo.png" />
 <img align="left" alt="PHPStorm" width="26px" src="https://logonoid.com/images/phpstorm-logo.png" />
@@ -19,6 +19,6 @@
 ---
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OceanTechnic&show_icons=true&theme=tokyonight&count_private=true))
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OceanTechnic&layout=compact&theme=tokyonight&count_private=true))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OceanTechnic&show_icons=true&theme=onedark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OceanTechnic&layout=compact&theme=onedark&count_private=true)
 
