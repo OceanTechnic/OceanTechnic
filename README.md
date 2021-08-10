@@ -1,4 +1,4 @@
-## 👋 Hi , I'm Adam (OceanTechnic)
+## 👋 Hey , I'm Adam (OceanTechnic)
 
 - I'm working on:  [MyGamePanel](https://github.com/MyGamePanel), [Haze-Market](https://discord.gg/4dEDh8nJdM)
 - What? If you ask me something. I will tell you to google it, because it will be faster.
