@@ -4,7 +4,7 @@
 - I dont know what I am doing.
 - `TS2367: This condition will always return 'false' with any`
 
-<h3><strong>Tools, Languages and Frameworks</strong></h3>
+<h3><strong>Tools, Languages and Frameworks:</strong></h3>
 
 <img align="left" alt="WebStorm" width="26px" src="https://logonoid.com/images/webstorm-logo.png" />
 <img align="left" alt="PHPStorm" width="26px" src="https://logonoid.com/images/phpstorm-logo.png" />
@@ -14,10 +14,10 @@
 <br>
 <br>
 
-<h3><strong>Profile Views</strong></h3>
+<h3><strong>Profile Views:</strong></h3>
 <img src = "https://profile-counter.glitch.me/OceanTechnic/count.svg" alt="Profile"/>
 
-<h3><strong>Stats</strong></h3>
+<h3><strong>Stats:</strong></h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OceanTechnic&show_icons=true&theme=onedark&count_private=true)
 
