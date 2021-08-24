@@ -1,6 +1,5 @@
 <h3><strong>🖖 Hey , I'm Adam (OceanTechnic) <br>But sometimes people call me Aidam 🙃</strong></h3>
 
-- I'm working on:  [MyGamePanel](https://github.com/MyGamePanel), [Haze-Market](https://discord.gg/4dEDh8nJdM)
 - I dont know what I am doing.
 - `TS2367: This condition will always return 'false' with any`
 
