@@ -3,6 +3,7 @@
 - I dont know what I am doing.
 - `TS2367: This condition will always return 'false' with any`
 
+
 ### Tools, Languages, Frameworks etc:
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
