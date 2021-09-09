@@ -3,7 +3,7 @@
 - I dont know what I am doing.
 - `TS2367: This condition will always return 'false' with any`
 
-<h3><strong>Tools, Languages and Frameworks etc:</strong></h3>
+<h3><strong>Tools, Languages, Frameworks etc:</strong></h3>
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
