@@ -5,7 +5,7 @@
 - Wear 255.255.0.0 and Stay at 127.0.0.1
 
 
-### Tools, Languages, Frameworks etc:
+### **Tools, Languages, Frameworks etc:**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
