@@ -1,4 +1,4 @@
-<h3><strong>🖖 Hey , I'm Adam (OceanTechnic) <br>But sometimes people call me Aidam 🙃</strong></h3>
+<h3><strong>Hey , I'm Adam (OceanTechnic) <br>But sometimes people call me Aidam 🙃</strong></h3>
 
 - I dont know what I am doing. BUT IT WORKS!.
 - `TS2367: This condition will always return 'false' with any`
