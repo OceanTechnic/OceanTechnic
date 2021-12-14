@@ -1,6 +1,6 @@
 <h3><strong>🖖 Hey , I'm Adam (OceanTechnic) <br>But sometimes people call me Aidam 🙃</strong></h3>
 
-- I dont know what I am doing.
+- I dont know what I am doing. BUT IT WORKS!.
 - `TS2367: This condition will always return 'false' with any`
 - Wear 255.255.0.0 and Stay at 127.0.0.1
 - And you can visit my site -> https://ocean.is-a.dev/
