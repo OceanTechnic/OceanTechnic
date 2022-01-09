@@ -12,6 +12,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<br>
+<br>
 ![AWS](https://img.shields.io/badge/-AWS-%23F8991D?style=for-the-badge)
 ![AZURE](https://img.shields.io/badge/-Azure-%230078D4?style=for-the-badge)
 ![TEAMCITY](https://img.shields.io/badge/-TeamCity-%23905CFB?style=for-the-badge)
