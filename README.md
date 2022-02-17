@@ -3,7 +3,7 @@
 - I dont know what I am doing. BUT IT WORKS!.
 - `TS2367: This condition will always return 'false' with any`
 - Wear 255.255.0.0 and Stay at 127.0.0.1
-- And you can visit my site -> https://ocean.is-a.dev/
+- And you can visit my site -> https://adamnagy.sk
 
 ### **Tools, Languages, Frameworks etc:**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
